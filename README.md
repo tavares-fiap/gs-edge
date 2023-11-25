@@ -23,6 +23,7 @@
   | Fio microUSB para ligar o ESP                            
   | Protoboard                                              
    
+ ![image](https://github.com/tavares-fiap/gs-edge/blob/rm97877/MontagemHealthConnection.png?raw=true)
  
  <h2>Tecnologia usada e como iniciar o projeto</h2>
    
