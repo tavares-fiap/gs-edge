@@ -23,6 +23,7 @@
   | Fio microUSB para ligar o ESP                            
   | Protoboard                                              
    
+ <img src="../gs-edge/MontagemHealthConnection.png" alt="Imagem da monstagem do Iot Device HealthConnect">
  
  <h2>Tecnologia usada e como iniciar o projeto</h2>
    
